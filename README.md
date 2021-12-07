@@ -1,3 +1,3 @@
-# penguin-website
+# georgie on the goesy
 
-First, Give complete credit to (puginarug.com), this is simply an upstream version of that that is penguins instead.
+a copy of my other website, [gakker.gq] but with a different image! Enjoy!
