@@ -33,7 +33,7 @@ canvas.height = window.innerHeight;
 context.translate(window.innerWidth / 2, window.innerHeight / 2);
 
 const image = new Image();
-image.src = "../selflovebird.jpg"; // Photo credit to Matthew Henry (https://unsplash.com/photos/U5rMrSI7Pn4)
+image.src = "../selflovebird.png"; // Photo credit to Matthew Henry (https://unsplash.com/photos/U5rMrSI7Pn4)
 
 const loopingPugs = 60; // 125 pugs required to cover a full 4K television screen. Tested via Firefox DevTools
 const offsetDistance = 120;
